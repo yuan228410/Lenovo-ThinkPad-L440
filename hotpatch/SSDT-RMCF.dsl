@@ -11,7 +11,6 @@ DefinitionBlock("", "SSDT", 2, "L440", "_RMCF", 0)
         Method(HELP)
         {
             Store("TYPE indicates type of the computer. 0: desktop, 1: laptop", Debug)
-            Store("HIGH selects display type. 1: high resolution, 2: low resolution", Debug)
             Store("BKLT indicates the type of backlight control. 0: IntelBacklight, 1: AppleBacklight", Debug)
             Store("LMAX indicates max for IGPU PWM backlight. Ones: Use default, other values must match framebuffer", Debug)
         }

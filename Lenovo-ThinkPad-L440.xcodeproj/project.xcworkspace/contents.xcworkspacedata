@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Lenovo-ThinkPad-L440.xcodeproj">
+      location = "group:Audio">
+   </FileRef>
+   <FileRef
+      location = "group:config.plist">
+   </FileRef>
+   <FileRef
+      location = "group:kexts">
+   </FileRef>
+   <FileRef
+      location = "group:SSDT-L440.aml">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

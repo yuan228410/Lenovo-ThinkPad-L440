@@ -11,7 +11,6 @@ DefinitionBlock("", "SSDT", 2, "L440", "_L440", 0)
     #include "SSDT-ALS0.dsl"
     #include "SSDT-PNLF.dsl"
     #include "SSDT-LPC.dsl"
-    #include "SSDT-SMBUS.dsl"
     #include "SSDT-GPRW.dsl"
     #include "SSDT-HDEF.dsl"
     #include "SSDT-HDAU.dsl"
