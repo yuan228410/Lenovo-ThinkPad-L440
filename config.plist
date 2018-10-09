@@ -332,14 +332,6 @@
 				<data></data>
 				<key>#AAPL00,override-no-edid</key>
 				<data></data>
-				<key>#framebuffer-con1-flags</key>
-				<data>BgAAAA==</data>
-				<key>#framebuffer-con1-pipe</key>
-				<data>EgAAAA==</data>
-				<key>#framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
-				<key>#framebuffer-con2-flags</key>
-				<data>BgAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>BgAmCg==</data>
 				<key>device-id</key>
@@ -354,6 +346,8 @@
 				<data>EgAAAA==</data>
 				<key>framebuffer-con2-type</key>
 				<data>AAEAAA==</data>
+				<key>framebuffer-con2-flags</key>
+				<data>BgAAAA==</data>
 				<key>framebuffer-cursormem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
